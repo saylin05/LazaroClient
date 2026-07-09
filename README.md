@@ -5,7 +5,7 @@ Aquí va la versión sin emojis:
 
 # LAZARO-CLIENT
 
-Aplicación móvil para la gestión y administración de clientes del sector textil, desarrollada como proyecto universitario para el curso de Programación V en la Universidad Latina de Costa Rica.
+Aplicación móvil para la gestión y administración de clientes del sector textil.
 
 ## Descripción
 
@@ -15,7 +15,6 @@ LAZARO-CLIENT es una solución tecnológica diseñada para modernizar la gestió
 
 - **Registro de clientes** – Datos personales y comerciales en un solo lugar.
 - **Clasificación por zonas geográficas** – Localización y segmentación de clientes por región.
-- **Control de visitas** – Seguimiento del historial de visitas y gestión comercial.
 - **Envío de promociones** – Difusión de ofertas, precios actualizados y novedades.
 - **Catálogos digitales** – Compartir muestrarios y catálogos directamente desde la app.
 - **Base de datos segura** – Almacenamiento centralizado con fácil acceso y sin riesgo de pérdida de información.
@@ -39,7 +38,3 @@ Facilitar el seguimiento comercial, la clasificación por zonas y el envío de i
 **Cliente:** Lazaro Nicoya  
 **Institución:** Universidad Latina de Costa Rica – Sede Santa Cruz  
 **Carrera:** Bachillerato en Ingeniería en Sistemas
-
----
-
-¿Querés agregar alguna sección adicional, como tecnologías utilizadas o instrucciones de instalación?
